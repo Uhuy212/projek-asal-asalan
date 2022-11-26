@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.btn {
+  background-color: #faff01;
+}
+.about {
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+.Gallery {
+  font-weight: bold;
+  margin-top: 300px;
+  margin-bottom: 150px;
+}
+.gambar1 {
+  margin-bottom: 50px;
+}
+#contact {
+  margin-top: 200px;
+  font-weight: bold;
+  background-color: #faff01;
+  padding: 20px;
+}
+#contact .row a {
+  margin: 10px;
+}
+footer {
+  font-size: 10px;
+  font-weight: bold;
+}
